@@ -1,0 +1,17 @@
+case 1
+
+180 0 0
+
+scalene  euclidean
+
+case 2
+
+179 59 57
+
+equilateral hyperbolic
+
+case 3
+
+180 0 0
+
+lsosceles euclidean
